@@ -1,4 +1,4 @@
-## Olá Mundo <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px>
+## Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px>
 
 <div align="center">
   <a href="https://github.com/victorsoles">
@@ -16,7 +16,7 @@
   <img align="center" alt="Victor-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
-## Contato <img src="https://media2.giphy.com/media/J6qr5pfGxf0cZBLR2R/giphy.gif?cid=ecf05e47p1wge5mkwrk0lzkw9dilc5ulv1756f3bq86xo1z2&rid=giphy.gif&ct=s" width = 40px>
+## Contact <img src="https://media2.giphy.com/media/J6qr5pfGxf0cZBLR2R/giphy.gif?cid=ecf05e47p1wge5mkwrk0lzkw9dilc5ulv1756f3bq86xo1z2&rid=giphy.gif&ct=s" width = 40px>
  
 <div>
   
