@@ -1,4 +1,4 @@
-## Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px>
+## Hello World 
 
 <div align="center">
   <a href="https://github.com/victorsoles">
@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorsoles&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
-## Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22px>
+## Skills
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
@@ -16,7 +16,7 @@
   <img align="center" alt="Victor-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
-## Contact <img src="https://media2.giphy.com/media/J6qr5pfGxf0cZBLR2R/giphy.gif?cid=ecf05e47p1wge5mkwrk0lzkw9dilc5ulv1756f3bq86xo1z2&rid=giphy.gif&ct=s" width = 40px>
+## Contact 
  
 <div>
   
