@@ -27,7 +27,7 @@
  <a href="https://https://discord.gg/MxenQKHJ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:victorsoles09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=victorsoles&theme=gotham)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=victorsoles&bg_color=000000&color=284e8a&line=4c569e&point=00527a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
 </div>
    
